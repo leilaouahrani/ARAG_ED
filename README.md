@@ -28,5 +28,5 @@ Indications for the use of the code :
 
  
 
-For further questions or inquiries about this code, you can contact:l.ouahrani@univ-blida.dz
+For further questions or inquiries about this code, you can contact l_ouahrani@univ-blida.dz
  
